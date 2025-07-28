@@ -2,11 +2,11 @@
 
 ## Submission for hr@apexnetwork.ng
 
-**GitHub Repository**: [Your Repository URL]
+**GitHub Repository**: https://github.com/klaus139/email-queue-service
 
-**Candidate**: [Your Name]  
-**Position**: [Position Applied For]  
-**Submission Date**: [Current Date]
+**Candidate**: Nicholas Igunbor
+**Position**: Sr. Golang Developer 
+**Submission Date**: 28/7/2025
 
 ---
 
@@ -177,7 +177,7 @@ The service is production-ready with:
 
 For any questions about this implementation, please contact:
 - **Email**: nicholasigunbor92@gmail.com
-- **GitHub**: https://github.com/klaus139/email-queue-service
+- **GitHub**: https://github.com/klaus139
 
 ---
 
